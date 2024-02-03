@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.color{
+    color: black;
+}
+
+.color:hover{
+    background-color: lightgreen;
+    color: darkgreen;
+}
+.style{
+    color: black;
+}
+.style:hover{
+    color: green;
+}
